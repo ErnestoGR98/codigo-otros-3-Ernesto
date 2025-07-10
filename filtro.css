@@ -4,6 +4,10 @@ input {
   font-size: 18px;
 }
 
+body{
+  background-color: antiquewhite;
+}
+
 #lista-de-productos {
   display: flex
 }
